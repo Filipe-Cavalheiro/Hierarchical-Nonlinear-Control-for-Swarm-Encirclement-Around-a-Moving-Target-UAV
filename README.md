@@ -128,10 +128,10 @@ Param.animation.(params)
 
 ## Citation
 
-If you use this repository in your research, please cite the associated publication (if available).
+If you use this repository in your research, please cite the associated publication (not yet availabe).
 
 ```bibtex
-@article{yourpaper,
+@article{NOTYETAVAILABLE,
   title={Hierarchical Nonlinear Control for Swarm Encirclement Around a Moving Target UAV},
   author={Filipe Cavalheiro, Bruno Guerreiro},
   year={2026}
@@ -141,7 +141,7 @@ If you use this repository in your research, please cite the associated publicat
 
 ## License
 
-This work uses the AGPL Licensens more information about the same can be viewed at `LICENCSE`.
+This work uses the AGPL license more information about the same can be viewed at `LICENCSE`.
 
 ## Future Work
 
