@@ -1,6 +1,6 @@
 # Hierarchical Nonlinear Control for Swarm Encirclement Around a Moving Target UAV
 
-This project contains two simulation implementations (Matlab, Python) and one real world experiment (Crazy Flies):
+This project contains two simulation implementations (Matlab, Python), one real world experiment (Crazy Flies) as well as the presentation files(manim):
 
 Both simulation repositories contain (nearly) identical code and simulate the behavior and control of multiple UAVs performing encirclement maneuvers around a moving target. The MATLAB version currently provides more stable and reliable simulation results, especially the plots.
 
@@ -34,4 +34,3 @@ Potential extensions include:
 - Hardware-in-the-loop simulation
 - ROS 2 integration
 - PX4 implementation
-- Real-world flight experiments

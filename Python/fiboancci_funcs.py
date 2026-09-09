@@ -158,9 +158,6 @@ def delaunay_triangulation_network(positions, verbose=False):
 
     return A, laplacian, degree_matrix
 
-import numpy as np
-
-
 def geo_distances(points, R, sphere_center=None):
     """
     Compute pairwise geodesic distances between points on a sphere.

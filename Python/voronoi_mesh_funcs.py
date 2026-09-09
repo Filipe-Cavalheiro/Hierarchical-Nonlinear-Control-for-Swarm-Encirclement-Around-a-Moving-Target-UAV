@@ -2,7 +2,7 @@ import numpy as np
 import heapq
 from scipy.spatial import ConvexHull, Delaunay
 from Structs import Param, Voronoi, MeshVertex
-from get_fibonacci_points import get_fibonacci_points
+from fiboancci_funcs import get_fibonacci_points
 
 def pre_compute_meshes(P:int, param: Param):
     """

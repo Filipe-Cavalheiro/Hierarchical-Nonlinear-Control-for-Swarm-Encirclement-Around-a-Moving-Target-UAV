@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import linear_sum_assignment
-
 # Project Capture
 # Bruno Guerreiro
 # Filipe Cavalheiro
