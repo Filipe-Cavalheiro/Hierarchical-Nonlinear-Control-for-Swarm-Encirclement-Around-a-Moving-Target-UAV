@@ -10,7 +10,7 @@ For detailed information about the implementation, configuration, and usage inst
 
 ## Citation
 
-If you use this repository in your research, please cite the associated publication (not yet available).
+If you use this repository in your research, please cite the associated publication.
 
 ```bibtex
 @INPROCEEDINGS{11771846,
